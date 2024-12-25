@@ -1,4 +1,6 @@
 # Multi-step-signup-.github.io
+
+Disclaimer: Made with the help of Tutorials and i changed the user interface and add some my own features also take help of ai to solve minor error only.
  
  This Project has consist the Multi step sign Up pages for highseas with beautiful wave transisition , it contiains multiple webpages for form details and then it save the data in the database.
 
